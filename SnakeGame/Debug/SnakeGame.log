@@ -1,0 +1,5 @@
+﻿  GameScene.cpp
+  main.cpp
+D:\Project\SnakeGame\SnakeGame\SnakeGame\main.cpp(14,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  SnakeGame.vcxproj -> D:\Project\SnakeGame\SnakeGame\Debug\SnakeGame.exe
